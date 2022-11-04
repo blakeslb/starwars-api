@@ -1,20 +1,26 @@
-#Starwars API
+# Starwars API
+Built by Bianca. 
 
-#Project Description
+# Project Description
 
-This project fetches data from a Starwars API to display lists of Starwars films and planets, and information about them. Simple! Built to practice using ayschronous Jacascript and APIs.
+This project fetches and displays data from a Starwars API. You will see a list of Starwars planets and the films they appear in. On the second web page, there is more information displayed on each movie. Simple! Built to practice using ayschronous Jacascript and APIs.
 
-#Live link
+
+# Live link
 You can view the project here:
 
-#Download
+## Screenshots
+
+(image.jpg)
+
+# Download
 
 To launch the project on your local computer, download the files from this github repository.
 
 Open 'films.html' or 'planets.html' to view either page in your browser. 
 
-#Built With
-HTML
-CSS
-Vanilla Javascript
-Starwars API: https://www.swapi.tech/
+# Built With
+- HTML
+- CSS
+- Vanilla Javascript
+- Starwars API: https://www.swapi.tech/
