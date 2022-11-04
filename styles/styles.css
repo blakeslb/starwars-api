@@ -19,6 +19,19 @@ body{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+button{
+    border: 2px solid var(--accent2);
+    background-color: var(--accent);
+    color: white;
+    margin: 20px 0px;
+    width: 200px;
+    padding: 9px 30px;
+    border-radius: 30px;
+    -webkit-box-shadow: -11.5px 11.5px 0 -1.5px #6a1eb7;
+    -moz-box-shadow: -11.5px 11.5px 0 -1.5px #6a1eb7;
+    box-shadow: -11.5px 11.5px 0 -1.5px #6a1eb7;
+}
+
 h1{
     font-family: var(--hero-font);
     color: var(--accent);   
@@ -71,6 +84,9 @@ box-shadow: -11.5px 11.5px 0 -1.5px #ddc028;
 ul{
     list-style-type: none;
     margin: 0;
+}
+.full-width{
+    width: 75%;
 }
 .planet-name{
     color: var(--accent2)

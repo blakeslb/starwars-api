@@ -61,7 +61,6 @@ const getMovieData = async () => {
 }
 
 
-
 const getPlanetData = function () {
     fetch(planetUrl)
         .then(response => {
