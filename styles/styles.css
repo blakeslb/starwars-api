@@ -1,0 +1,81 @@
+:root{
+    --hero-font: 'Bungee Inline', cursive;
+    --bg-color: black; 
+    --accent: #DDC028;
+    --accent2: #6a1eb7;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: var(--bg-color);
+    background-image: url("../images/background.png");
+    background-attachment: fixed;
+    background-size: cover;
+    width: auto;
+    height: 100%;
+    color: white;
+    background-repeat: no-repeat;
+    padding: 1% 2%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-family: var(--hero-font);
+    color: var(--accent);   
+}
+h3{
+    color: black; 
+}
+
+.hidden{
+    display: none;
+}
+.loader1, .loader2{
+    width: 40px;
+    height: 40px; 
+}
+.loader-message{
+    font-style: italic;
+}
+
+.container{
+    width: 48%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.wrapper-lg{
+    display: flex; 
+    align-items: flex-start;
+}
+.data-container{
+
+    color: white;
+    margin: 20px 0px;
+    padding: 0px 12px; 
+    font-size: 12px;
+    border-radius: 2px; 
+    background: rgba(255,255,255,0.7);
+-webkit-backdrop-filter: blur(10px);
+backdrop-filter: blur(10px);
+border: 1px solid rgba(255,255,255,0.1);
+
+-webkit-box-shadow: -11.5px 11.5px 0 -1.5px #ddc028;
+-moz-box-shadow: -11.5px 11.5px 0 -1.5px #ddc028;
+box-shadow: -11.5px 11.5px 0 -1.5px #ddc028;
+}
+.data-container li {
+    /* text-transform: uppercase; */
+    line-height: 1.5em;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+}
+.planet-name{
+    color: var(--accent2)
+}
+.purple {
+    -webkit-box-shadow: -11.5px 11.5px 0 -1.5px #6a1eb7;
+    -moz-box-shadow: -11.5px 11.5px 0 -1.5px #6a1eb7;
+    box-shadow: -11.5px 11.5px 0 -1.5px #6a1eb7;
