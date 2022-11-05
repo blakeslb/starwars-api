@@ -7,11 +7,11 @@ This project fetches and displays data from a Starwars API. You will see a list 
 
 
 # Live link
-You can view the project here:
+You can view the deployed project here: https://starwarsplanetsinfo.netlify.app/planets.html
 
 ## Screenshots
 
-(image.jpg)
+<img src="images/screenshot.png">
 
 # Download
 
@@ -22,5 +22,5 @@ Open 'films.html' or 'planets.html' to view either page in your browser.
 # Built With
 - HTML
 - CSS
-- Vanilla Javascript
+- Javascript
 - Starwars API: https://www.swapi.tech/
