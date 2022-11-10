@@ -3,7 +3,7 @@ Built by Bianca.
 
 # Project Description
 
-This project fetches and displays data from a Starwars API. You will see a list of Starwars planets and the films they appear in. On the second web page, there is more information displayed on each movie. Simple! Built to practice using ayschronous Jacascript and APIs.
+This project fetches and displays data from a Starwars API. You will see a list of Starwars planets and the films they appear in. On the second web page, there is more information displayed on each movie. Simple! Built to practice using ayschronous Javascript and APIs.
 
 
 # Live link
